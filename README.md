@@ -26,3 +26,14 @@ Authentication: Only authenticated users can access TwitVille, with robust valid
 Tweet Feed: Users can view tweets from their followers and public users, ensuring a diverse and engaging feed of content.
 Password Management: Users have the ability to change their passwords securely to maintain account security.
 Join TwitVille today and become part of a vibrant community where knowledge sharing and social interaction thrive! 🐦 #TwitVille #SocialMedia #KnowledgeExchange #WebApplication #FullStack #HTML #CSS #JavaScript #PHP #Bootstrap4 #MySQL
+
+
+
+
+
+
+
+
+
+![Screenshot 2024-02-25 153017](https://github.com/Ramalakshmi2209/Front-end/assets/118355051/e745608c-e782-4ef7-ab02-1306465207f0)
+
